@@ -8,4 +8,4 @@ edition = "2018"
 [dependencies]
 pcap = "0.9.1"
 etherparse = "0.10.1"
-clap = "3.1.1"
+clap = "3.1.2"
